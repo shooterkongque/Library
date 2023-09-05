@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/include/Book.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/BorrowRecord.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/DBUtil.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DBUtil.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Manager.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Student.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TimeUtil.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main.cpp" charset="GBK" />
+  </component>
+</project>

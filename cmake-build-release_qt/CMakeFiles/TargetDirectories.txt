@@ -1,0 +1,3 @@
+C:/Users/27312/Desktop/file/CProject/Library/cmake-build-release_qt/CMakeFiles/app.dir
+C:/Users/27312/Desktop/file/CProject/Library/cmake-build-release_qt/CMakeFiles/edit_cache.dir
+C:/Users/27312/Desktop/file/CProject/Library/cmake-build-release_qt/CMakeFiles/rebuild_cache.dir

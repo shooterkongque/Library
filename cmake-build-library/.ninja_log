@@ -1,0 +1,25 @@
+# ninja log v5
+2	385	7127737543197482	CMakeFiles/app.dir/src/TimeUtil.cpp.obj	75942f892561b93e
+3	2994	7127680522472790	CMakeFiles/app.dir/src/Book.cpp.obj	5caf186841f9162
+3	1315	7127727090640725	CMakeFiles/app.dir/src/main.cpp.obj	99e8c7585d288b1e
+2	241	7127745401746485	CMakeFiles/app.dir/src/BorrowRecord.cpp.obj	f4ff29ff0ef2905c
+50	2995	7127680522492794	CMakeFiles/app.dir/src/User.cpp.obj	422cc1a726d7b70b
+36	3085	7127680523410354	CMakeFiles/app.dir/src/Manager.cpp.obj	4918e3a8afef5b8
+28	3367	7127680526219235	CMakeFiles/app.dir/src/DBUtil.cpp.obj	adceab75fb2bcaa7
+2	1175	7127746149300452	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1175	1283	7127746150362734	app.exe	743d9cc32eceb468
+5	1486	7127749874812708	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1486	1627	7127749876120904	app.exe	743d9cc32eceb468
+3	240	7127751355306041	CMakeFiles/app.dir/src/BorrowRecord.cpp.obj	f4ff29ff0ef2905c
+11	1157	7127751364473171	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1157	1268	7127751365525087	app.exe	743d9cc32eceb468
+3	1171	7127751849780779	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1172	1280	7127751850838694	app.exe	743d9cc32eceb468
+3	1172	7127753820267827	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1172	1284	7127753821355277	app.exe	743d9cc32eceb468
+3	1173	7127754683514200	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1174	1282	7127754684575188	app.exe	743d9cc32eceb468
+2	1166	7127755358469390	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1167	1275	7127755359515944	app.exe	743d9cc32eceb468
+3	1348	7127760896276069	CMakeFiles/app.dir/src/Student.cpp.obj	bd8e95583583ba3f
+1349	1470	7127760897530714	app.exe	743d9cc32eceb468
